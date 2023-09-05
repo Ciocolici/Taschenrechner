@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Taschenrechner\bin\Debug\net7.0\Taschenrechner.exe
+C:\Users\danie\Documents\GitHub\Taschenrechner\bin\Debug\net7.0\Taschenrechner.deps.json
+C:\Users\danie\Documents\GitHub\Taschenrechner\bin\Debug\net7.0\Taschenrechner.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Taschenrechner\bin\Debug\net7.0\Taschenrechner.dll
+C:\Users\danie\Documents\GitHub\Taschenrechner\bin\Debug\net7.0\Taschenrechner.pdb
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\Taschenrechner.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\Taschenrechner.dll
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\refint\Taschenrechner.dll
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\Taschenrechner.pdb
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\Taschenrechner.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Taschenrechner\obj\Debug\net7.0\ref\Taschenrechner.dll
